@@ -2,7 +2,10 @@
 <h1 align="center">Hola Amigo! I'm Nithiya Shri</h1>
 <h3 align="center">STUDENT</h3>
 
-<p align="left"> <img src="https://github.com/ghpvc/?username=nithzz&label=Profile%20views&color=0e75b6&style=flat" alt="nithzz" /> </p>
+<br>
+<br>
+<br>
+
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
