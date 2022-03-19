@@ -1,4 +1,4 @@
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hola Amigo! I'm Nithiya Shri</h1>
 <h3 align="center">STUDENT</h3>
 
